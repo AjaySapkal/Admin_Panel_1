@@ -135,7 +135,7 @@
     <Content Include="gulp-tasks\inject.js" />
     <Content Include="gulp-tasks\serve.js" />
     <Content Include="gulp-tasks\vendors.js" />
-    <Content Include="gulpfile.js" />
+    <Content Include="Gulpfile.js" />
     <Content Include="index.html" />
     <Content Include="Login.aspx" />
     <Content Include="pages\charts\chartjs.html" />
